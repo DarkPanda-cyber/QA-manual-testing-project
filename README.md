@@ -1,7 +1,4 @@
-# QA-manual-testing-project
-
-**Project Title:**  
-Manual Testing of E-Commerce Web Application
+# Manual Testing of E-Commerce Web Application
 
 **Application Overview:**  
 Brief description of the app and users.
